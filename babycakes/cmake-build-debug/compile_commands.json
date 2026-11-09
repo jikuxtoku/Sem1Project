@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/babycakes/cmake-build-debug",
+  "command": "\"E:\\Ideas\\CLion 2026.2.0.1\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\untitled12.dir\\main.c.obj -c E:\\babycakes\\main.c",
+  "file": "E:/babycakes/main.c",
+  "output": "E:/babycakes/cmake-build-debug/CMakeFiles/untitled12.dir/main.c.obj"
+}
+]
